@@ -1,11 +1,11 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Main {
+public class PerfectSquare {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int square;
-        System.out.println("Input a number");
+        System.out.println("Input a number (integers only)");
         square = scan.nextInt();
         System.out.println(" ");
 
